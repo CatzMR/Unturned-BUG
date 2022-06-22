@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translation Id="Home_Fail_NoBed" Value="[color=red]您的床被堵住或丢失了[/color]" />
+  <Translation Id="Home_Fail_AlreadyPending" Value="[color=red]已经传送回家[/color]" />
+  <Translation Id="Home_Wait" Value="[color=yellow]传送回家，等待 {0} 秒...[/color]" />
+  <Translation Id="Home_Failed_Move" Value="[color=red]因为你移动而取消传送[/color]" />
+  <Translation Id="Home_Teleported" Value="[color=green]传送到你的床[/color]" />
+  <Translation Id="Home_Failed_Blocked" Value="[color=red]传送失败，因为你的床被挡住或损坏了[/color]" />
+</Translations>

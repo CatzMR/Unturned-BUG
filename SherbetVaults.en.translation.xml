@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translation Id="Vault_Fail_NotFound" Value="[color=red]找不到该 ID 的跨服背包[/color]" />
+  <Translation Id="Vault_Fail_NoPermission" Value="[color=red]您无权访问跨服背包 {0}[/color]" />
+  <Translation Id="Vault_Fail_CannotLoad" Value="[color=red]保险柜 {0} 目前不可用[/color]" />
+  <Translation Id="Vaults_No_Vaults" Value="[color=yellow]您无权访问任何跨服背包[/color]" />
+  <Translation Id="Vaults_List" Value="[color=green]您的跨服背包：{0}[/color]" />
+  <Translation Id="WipeVault_Wiped" Value="[color=green]从 {1} 的跨服背包 {2}[/color] 中擦除了 {0} 项" />
+</Translations>
